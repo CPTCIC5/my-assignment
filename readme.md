@@ -21,8 +21,7 @@ This application is designed to create a conversational experience for an e-comm
 
 1. **Clone the Repository**:
    ```bash
-   git clone <your-repository-link>
-   cd <repository-name>
+   git clone https://github.com/CPTCIC5/my-assignment
    ```
 
 2. **Install Dependencies**: Ensure you have Python and pip installed. Install the required packages using:
